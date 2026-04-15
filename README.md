@@ -1,6 +1,6 @@
 # Client Lead Management System 
 
-full-stack Client Relationship Management (CRM) system built for businesses to manage leads, track interactions, and convert prospects into clients.
+A full-stack Client Relationship Management (CRM) system built for businesses to manage leads, track interactions, and convert prospects into clients.
 
   ## Features
 
